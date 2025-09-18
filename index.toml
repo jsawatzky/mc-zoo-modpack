@@ -211,11 +211,6 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
-file = "mods/ato.pw.toml"
-hash = "d4dc57d9bff8cf2a9d3984018bee8c97ef178055c37701e29ea0a61e8dcab187"
-metafile = true
-
-[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "fcc7639f99d4ae66e77e0cbba030ea62ff2595b133b3390693b4c526f293b8f9"
 metafile = true
@@ -351,31 +346,6 @@ hash = "16e8dd4fab7436b972f80dd78e9468cde229a75c4ccbc51d834e89b6b6ddeff3"
 metafile = true
 
 [[files]]
-file = "mods/create-aquatic-ambitions.pw.toml"
-hash = "f882a8c2130a051b8fff82bcbce16e51665f27bf94a3f89b22f78f8ba3fe1921"
-metafile = true
-
-[[files]]
-file = "mods/create-dragons-plus.pw.toml"
-hash = "16c78af2711196f47b216272bfa991d5801128734d046eefaf2d432a8072bd11"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "00dca927df4b5ab9eabb16150192d5519136011d2ae82a2ab72cef77fbaadbea"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "3d5702f95880e4eb3ee7b5025a9f28a01bd6519b48d599724ad9b23935b69b40"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "742108414562eb148ff95c653f15731fe793a58e50ae2747017da0cf20c53982"
 metafile = true
@@ -418,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
-metafile = true
-
-[[files]]
-file = "mods/ender-io.pw.toml"
-hash = "d3e545cc11931ff0d433a320fd6c1c4e8733715b5eabd7cf1ef987c23516e677"
 metafile = true
 
 [[files]]
