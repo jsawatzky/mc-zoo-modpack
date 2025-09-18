@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/ato.pw.toml"
-hash = "f05b564f352529831647202f3d1ddd01d7a54d5e7dbddd10bb2c391e57b3c56e"
+hash = "d4dc57d9bff8cf2a9d3984018bee8c97ef178055c37701e29ea0a61e8dcab187"
 metafile = true
 
 [[files]]
@@ -158,8 +158,9 @@ hash = "2b4c244aa7a303dead0a1b659c25b9b9bce2ced2758ea55aca347556f7348189"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.21.1-forge-1.116.1.jar"
-hash = "f5e8872a2ccca38aa210c477c84d5f2ba3e8f054328b6816461af4c1f8c460a5"
+file = "mods/cc-tweaked.pw.toml"
+hash = "88773a3eb40bdea95e454e38e9f8b8154d119997fbdd31c7c4bf8c24baaf4de4"
+metafile = true
 
 [[files]]
 file = "mods/charging-gadgets.pw.toml"
@@ -597,16 +598,6 @@ hash = "020adc06090214975729d9ad9acbe7a1c9d326656901459c26073fdb9a73a8bb"
 metafile = true
 
 [[files]]
-file = "mods/mavapi.pw.toml"
-hash = "0da7f6a72303f5f9aa3cceaa5e772e3c34a82f5ae1e6fc85aebba6cdb4c951ad"
-metafile = true
-
-[[files]]
-file = "mods/mavm.pw.toml"
-hash = "492d3efa7fe2d91a27fbadb0794033f3e1cbed717e6d7589105e623d57e56241"
-metafile = true
-
-[[files]]
 file = "mods/measurements.pw.toml"
 hash = "5634fdbd968dfd9fd3bce683f3474d34dc5d7753ed87574d713c15b41f88e8f9"
 metafile = true
@@ -893,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "149570b740a272d7e1cfe037428fcac6ca8560bd877ea2e082b9197b0d095c9f"
+hash = "b0f9f8aa0526062032d7fb58efd7a887078787a4edb6e56a960ad4b856495775"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
