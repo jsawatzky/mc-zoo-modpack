@@ -1,0 +1,36 @@
+{
+	"canAttack": true,
+	"health": 10.0,
+	"movementSpeed": 0.23,
+	"attackDamage": 2.0,
+	"maxSpawnedInChunk": 6,
+	"spawnBiomes": [
+		{
+			"weight": 16,
+			"minGroupSize": 2,
+			"maxGroupSize": 5,
+			"biomes": [
+				"minecraft:plains",
+				"minecraft:forest",
+				"minecraft:birch_forest",
+				"minecraft:old_growth_birch_forest",
+				"minecraft:sunflower_plains",
+				"minecraft:dark_forest",
+				"minecraft:flower_forest",
+				"minecraft:cherry_grove",
+				"biomesoplenty:aspen_glade",
+				"biomesoplenty:cherry_blossom_grove",
+				"biomesoplenty:coniferous_forest",
+				"biomesoplenty:field",
+				"biomesoplenty:forested_field",
+				"biomesoplenty:jade_cliffs",
+				"biomesoplenty:maple_woods",
+				"biomesoplenty:old_growth_woodland",
+				"biomesoplenty:orchard",
+				"biomesoplenty:pumpkin_patch",
+				"biomesoplenty:seasonal_forest",
+				"biomesoplenty:woodland"
+			]
+		}
+	]
+}

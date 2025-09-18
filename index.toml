@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "327596d4c16505556a15d747d7948de37505c825017f0583cab13573907c06a0"
 
@@ -19,6 +23,90 @@ hash = "04372159cf5e6cb3cb661cf83be61f9e07b2967fc2fb41e9ff43a1240fe0e497"
 [[files]]
 file = "config/iris.properties"
 hash = "6d149369e1524efa637f34f8230d8ebf40f68a17392c544569931a143532ef24"
+
+[[files]]
+file = "config/livingthings/ancient_blaze.json"
+hash = "6ebb3daf5ca152c5dba141349dcd8b789e3162c74a930606d615cf8111f4cc58"
+
+[[files]]
+file = "config/livingthings/baby_ender_dragon.json"
+hash = "e905e42dccaa13eeeadacc05b2e146ab19a10f326610476b1d96291d5f2bc77b"
+
+[[files]]
+file = "config/livingthings/crab.json"
+hash = "9aac19b53e63e91439947858744bcbe1476b6d036f75c245823cfea6b16ca485"
+
+[[files]]
+file = "config/livingthings/elephant.json"
+hash = "f31c05cc0734b3d9b13102345816d39f196fdf2719a2dfdb11a34ed7b6e4033f"
+
+[[files]]
+file = "config/livingthings/flamingo.json"
+hash = "37c6619a49144447bec185fd60d7e31f31fa768e87db61572788278eb0f6ac5c"
+
+[[files]]
+file = "config/livingthings/giraffe.json"
+hash = "8449b1f0ef8dc9b4026301a53fd63d54f9e0eaccf5c526b12080ae435a3e5cfe"
+
+[[files]]
+file = "config/livingthings/koala.json"
+hash = "d6cae1dcd867a5eed15df68243603314d165f48f3dad94306a25d85cca40f72d"
+
+[[files]]
+file = "config/livingthings/lion.json"
+hash = "eedac6e6dd014f535b6d311f83a789e38b8cf45bc8bea329a9d6f8d6d7dfff8e"
+
+[[files]]
+file = "config/livingthings/livingthings.json"
+hash = "b28c313f2632fc458649dfc61d288744f7e07e2ea1f1c22efc9d7cc8c2a505f7"
+
+[[files]]
+file = "config/livingthings/mantaray.json"
+hash = "78063033b576ca9ef7205618f30c5b04952a06e98fe5abea02890a5fa4674aba"
+
+[[files]]
+file = "config/livingthings/monkey.json"
+hash = "93e41025b700c7f399afb0b6243bbd1bff2be58808b15c5fa3795a37786ff256"
+
+[[files]]
+file = "config/livingthings/nether_knight.json"
+hash = "33cedddff83e98b8e157b60422f5b1b6f3ad1bf4a5f997f2f651dc3a7aa0b21e"
+
+[[files]]
+file = "config/livingthings/ostrich.json"
+hash = "2ee819d62d653fd00e95ffdb9e64bb3a36017200e279027643928c04f9f3f193"
+
+[[files]]
+file = "config/livingthings/owl.json"
+hash = "1d4c541a8be60601d74e76ac6301084494d2cac8398947e9fe3d77db28a93dff"
+
+[[files]]
+file = "config/livingthings/peacock.json"
+hash = "02eb2c1f2778296cd617258cf85e51bfe96909c116fb3c9c88dc836612730096"
+
+[[files]]
+file = "config/livingthings/penguin.json"
+hash = "91bbf9d90657725796795029fd607fddd3bd22305f6b9fa0ceca9012e4a812ee"
+
+[[files]]
+file = "config/livingthings/raccoon.json"
+hash = "ca149fd8d1f52756585edd6cb3449152c12076d5882a6b982af833dfca4d49a9"
+
+[[files]]
+file = "config/livingthings/seahorse.json"
+hash = "2b6d50b761524fdd184e2b8ee9d7b370d7c8cf6c35fccc22497ffcacdd6dda64"
+
+[[files]]
+file = "config/livingthings/shark.json"
+hash = "420e9cc2366d10cfc9b6e050ef34238cd75be2f230f6c64c197ad45ba5e383ca"
+
+[[files]]
+file = "config/livingthings/shroomie.json"
+hash = "a30d5d4dd78d6b93cdefa9f6afab36b2de3f20db76185222281ed6c1f27cfca7"
+
+[[files]]
+file = "config/livingthings/snail.json"
+hash = "e8f08acd21596b064bd46f4b5d5e923b59613c80a4ad45bb15c81f27f2d9e748"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -713,6 +801,11 @@ hash = "4b9f18f9e2997dcb1501eca1d8052003946d656e054b07b527f947fa751898b9"
 metafile = true
 
 [[files]]
+file = "mods/productive-metalworks.pw.toml"
+hash = "2a59f6e5af2251a22afecc6fb98dc6e3f79360a4b21b0a06b770f1d981357f61"
+metafile = true
+
+[[files]]
 file = "mods/productivebees.pw.toml"
 hash = "ddcea1d800144fdf0ce33fc5fa0682d66ff381224d163300e0f366084ed987ed"
 metafile = true
@@ -760,6 +853,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "eb438b9d4a49c0cc65560cdc295bf927cabc6f34319375a0cfbf3aece662add8"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear-metalworks.pw.toml"
+hash = "dc76abe7cf7cd42cabb48d121941ddca46daf756d876078c1591cce04deeaa5b"
 metafile = true
 
 [[files]]
