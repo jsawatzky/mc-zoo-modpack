@@ -21,6 +21,10 @@ file = "config/iris.properties"
 hash = "6d149369e1524efa637f34f8230d8ebf40f68a17392c544569931a143532ef24"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "ed8b78039c358885cbefb580e274b8d1055c8e6ebaa8280cc71fc0972d009874"
+
+[[files]]
 file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
 hash = "fdf30f6174021100e2c34e5599f8ae6a9914a4b0e7413c162d75cdfaafb22bab"
 
@@ -231,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "6376e650ad6e514f6cc8d0a932a7b1ec5269a7a2baf9c119be085a4bdc086ac8"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
@@ -739,6 +748,11 @@ hash = "80ae7478e4113960ef7548b7e6e2bf9bcfce9f86d900bd5e37934e4866ed12e7"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "8117d298831ffd0022114b2c66f7128672188398092c3c2cef7dc6148c4ebd12"
 metafile = true
@@ -905,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b0f9f8aa0526062032d7fb58efd7a887078787a4edb6e56a960ad4b856495775"
+hash = "0669a41aadb493fcd0e2ab397e99acf7e8978510cab1ee730aecb0620936f60d"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
