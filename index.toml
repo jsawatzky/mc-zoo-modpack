@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/duplicates.json"
+hash = "327596d4c16505556a15d747d7948de37505c825017f0583cab13573907c06a0"
+
+[[files]]
+file = "config/almostunified/placeholders.json"
+hash = "7ea26d4553497330d52a291a49d3bcd486abbcd63ae3a249ad5d3d5b56f10f53"
+
+[[files]]
+file = "config/almostunified/tags.json"
+hash = "f0fcd4a758d7372ea803794abe40448f78bb7165c3bcf4851d81ee59d7abb85a"
+
+[[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "04372159cf5e6cb3cb661cf83be61f9e07b2967fc2fb41e9ff43a1240fe0e497"
+
+[[files]]
 file = "config/iris.properties"
 hash = "6d149369e1524efa637f34f8230d8ebf40f68a17392c544569931a143532ef24"
 
@@ -55,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "c152b7a224b7bcc95547e426bef5dd63749b39814fdd991e7bc9ccdf3cb1bdca"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "afd9837f16b0b8fe16fe8788470334b7bb13d9c452f46a058d1a2c012f079adf"
 metafile = true
 
 [[files]]
@@ -134,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
+hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
 metafile = true
 
 [[files]]

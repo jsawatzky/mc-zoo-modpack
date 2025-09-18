@@ -1,12 +1,12 @@
 name = "Lets Build A Zoo"
 author = "Jacob Sawatzky"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "91ce110cb6ef0a203e03b75706c8c3c21e76ea48289a1d6e204322a11e000d8e"
+hash = "2264a5937759fdf4bb402f6fa5f439037086e2ccb945224a1f098eeb881f9193"
 
 [versions]
 minecraft = "1.21.1"
